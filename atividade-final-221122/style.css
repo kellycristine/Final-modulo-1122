@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.img-nav {
+    background-color: rgb(40, 198, 209);
+    width: 25rem;
+    height: 100vh;
+    position: absolute;
+}
+
+.foto {
+    width: 20rem;
+    position: absolute;
+    border-radius: 100%;
+    top: 15rem;
+    left: 2rem;
+}
+
+.nav {
+    text-align: justify;
+    color: aliceblue;
+    width: 20rem;
+    height: 20em;
+    top: 38rem;
+    position: absolute;
+    font-size: 0.6cm;
+    left:5rem;
+}
+
+.bloco2 {
+    position: absolute;
+    left: 40rem;
+    top: 20rem;
+}
+
+h1 {
+    font-size: 1.6cm;
+    font-family: 'Montserrat', sans-serif;
+}
+
+address {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.5cm;
+}
+
+span {
+    color: blueviolet;
+}
+
+.email {
+    font-size: 0.6cm;
+    font-family: 'Montserrat', sans-serif;
+    color: blueviolet;
+}
+
+.email:hover {
+    color: red;
+}
+
+.psob {
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    left: 40rem;
+    top: 32rem;
+}
+
+.conhecimentos, .obje {
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    left: 40rem;
+    top: 23rem;  
+}
+
+
+.buton {
+    width: 5rem;
+    position: relative;
+    left: 40rem;
+    top: 40rem;
+    margin: 1rem;
+}
+
+.buton:hover {
+    background-color: blueviolet;
+    border-radius: 30%;
+}
+
+h3 {
+    position: absolute;
+    left: 40rem;
+    top: 12rem;
+    font-size: 4rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
